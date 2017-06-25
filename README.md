@@ -4,20 +4,21 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+06-30-17
 
 ### Student Name:  
-(First and Last Name)
+Erik Wilbas
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This lesson introduces the advantages of code
+modularization and reusable code by using conditional
+statements, loops, and functions.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://ewilbas.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Learned the fundamentals of if/else statements and comparison operators.
+2. Viewed a tutorial covering JavaScript arrays and looping arrays in JavaScript. 
+3. Practiced exercises applying control statements, array manipulation, and using the Javascript Console. 
 
